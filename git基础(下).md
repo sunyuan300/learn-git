@@ -50,9 +50,9 @@
 
       git reset [file]
       
-** git reset 也可以用于退回版本 **
+**git reset 也可以用于退回版本**
 
-      * git reset HEAD^ or git reset 628de25 *
+      git reset HEAD^ or git reset 628de25
       
 -------
 
