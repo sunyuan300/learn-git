@@ -10,9 +10,9 @@
     
       $ git clone git://github.com/sunyuan300/learn git
     
-克隆learn git 到到当前工作目录下（克隆所有版本）
+      克隆learn git 到到当前工作目录下（克隆所有版本）
 
-    git clone [url] name
+      git clone [url] name
 
 将项目重命名为name
 
