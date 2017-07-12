@@ -48,7 +48,7 @@
     
 * 撤销缓存区（stage）修改
 
-      git reset [file]
+      git reset HEAD [file]
       
 **git reset 也可以用于退回版本**
 
